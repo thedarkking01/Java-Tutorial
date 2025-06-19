@@ -1,4 +1,4 @@
-package operations;
+package com.ok.javatutorial.operations;
 import java.util.Scanner;
 
 public class Main {

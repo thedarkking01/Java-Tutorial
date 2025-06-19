@@ -1,4 +1,4 @@
-package if_else;
+package com.ok.javatutorial.if_else;
 
 public class Main {
     public static void main(String[] args) {
